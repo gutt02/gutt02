@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* ☁️ Scripting, automation, testing, ...
+* ☁️ Cloud Scripting, automation, testing, ...
 
 <!--
 **gutt02/gutt02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
